@@ -1,0 +1,10 @@
+.slider{
+    position:absolute;
+    bottom:10px;
+    left: 50%;
+    transform:translateX(-50%);
+}
+
+.slider input{
+    width: 600px;
+}
